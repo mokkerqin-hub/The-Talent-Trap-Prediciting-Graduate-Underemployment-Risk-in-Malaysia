@@ -1,0 +1,1001 @@
+Student_ID,Education,Location,Salary,Risk_Status
+1001,Diploma,Urban,3293,High Risk
+1002,Degree,Urban,4914,Stable
+1003,Degree,Urban,5986,High Risk
+1004,Diploma,Rural,5139,Stable
+1005,Degree,Rural,5354,Stable
+1006,Diploma,Urban,2276,High Risk
+1007,Degree,Urban,5957,Stable
+1008,Degree,Urban,4856,Stable
+1009,Degree,Urban,6980,Stable
+1010,Diploma,Urban,1824,High Risk
+1011,Degree,Rural,6164,Stable
+1012,Diploma,Urban,4033,Stable
+1013,Degree,Urban,2093,High Risk
+1014,Degree,Rural,1500,High Risk
+1015,Degree,Rural,2484,High Risk
+1016,Diploma,Rural,3487,Stable
+1017,Diploma,Urban,3203,High Risk
+1018,Degree,Rural,5434,Stable
+1019,Diploma,Rural,2996,Stable
+1020,Diploma,Urban,3400,High Risk
+1021,Diploma,Rural,2811,Stable
+1022,Diploma,Urban,4205,Stable
+1023,Degree,Rural,4598,Stable
+1024,Diploma,Urban,4386,Stable
+1025,Diploma,Urban,4365,Stable
+1026,Degree,Rural,5548,Stable
+1027,Diploma,Urban,4148,Stable
+1028,Diploma,Urban,3369,Stable
+1029,Degree,Rural,3086,Stable
+1030,Degree,Urban,5029,Stable
+1031,Diploma,Urban,2760,Stable
+1032,Diploma,Urban,3378,Stable
+1033,Diploma,Urban,2943,High Risk
+1034,Degree,Urban,5072,High Risk
+1035,Diploma,Urban,2980,High Risk
+1036,Diploma,Rural,3493,Stable
+1037,Diploma,Urban,2676,High Risk
+1038,Degree,Urban,5870,Stable
+1039,Degree,Rural,4833,Stable
+1040,Diploma,Urban,3221,High Risk
+1041,Diploma,Urban,3731,Stable
+1042,Diploma,Urban,3498,High Risk
+1043,Degree,Rural,3312,Stable
+1044,Degree,Urban,6464,Stable
+1045,Diploma,Urban,3348,High Risk
+1046,Degree,Urban,4991,Stable
+1047,Diploma,Urban,2491,Stable
+1048,Degree,Rural,4715,Stable
+1049,Diploma,Urban,4205,Stable
+1050,Degree,Urban,5544,Stable
+1051,Diploma,Rural,2907,High Risk
+1052,Degree,Urban,5005,Stable
+1053,Diploma,Rural,2715,High Risk
+1054,Degree,Urban,4645,High Risk
+1055,Diploma,Urban,4520,Stable
+1056,Degree,Urban,3400,High Risk
+1057,Diploma,Urban,2982,High Risk
+1058,Diploma,Urban,4479,Stable
+1059,Diploma,Rural,2935,High Risk
+1060,Degree,Urban,5411,Stable
+1061,Degree,Urban,6352,Stable
+1062,Diploma,Urban,3068,High Risk
+1063,Degree,Urban,5549,Stable
+1064,Degree,Urban,5795,Stable
+1065,Degree,Urban,4086,High Risk
+1066,Degree,Urban,5910,Stable
+1067,Degree,Urban,5038,Stable
+1068,Degree,Rural,2555,High Risk
+1069,Degree,Urban,5801,Stable
+1070,Diploma,Urban,3055,Stable
+1071,Diploma,Urban,3282,High Risk
+1072,Diploma,Urban,3277,High Risk
+1073,Degree,Urban,6315,High Risk
+1074,Diploma,Urban,3538,Stable
+1075,Diploma,Rural,2084,Stable
+1076,Degree,Rural,4971,High Risk
+1077,Diploma,Rural,2184,High Risk
+1078,Degree,Urban,6179,Stable
+1079,Diploma,Urban,2808,High Risk
+1080,Degree,Urban,2841,High Risk
+1081,Diploma,Rural,1961,High Risk
+1082,Diploma,Urban,2701,High Risk
+1083,Degree,Urban,7597,Stable
+1084,Diploma,Urban,3586,Stable
+1085,Degree,Urban,7433,Stable
+1086,Diploma,Rural,1500,High Risk
+1087,Degree,Urban,7322,Stable
+1088,Diploma,Urban,3913,High Risk
+1089,Diploma,Rural,3175,Stable
+1090,Degree,Urban,8864,Stable
+1091,Degree,Urban,5099,High Risk
+1092,Diploma,Rural,1500,High Risk
+1093,Degree,Urban,5633,High Risk
+1094,Diploma,Urban,3238,High Risk
+1095,Degree,Rural,5593,Stable
+1096,Diploma,Urban,4027,Stable
+1097,Diploma,Urban,3728,Stable
+1098,Degree,Urban,4233,Stable
+1099,Diploma,Urban,3590,Stable
+1100,Degree,Urban,7540,Stable
+1101,Diploma,Urban,2670,High Risk
+1102,Degree,Urban,5451,Stable
+1103,Degree,Urban,3889,Stable
+1104,Diploma,Urban,1906,High Risk
+1105,Degree,Urban,6245,Stable
+1106,Degree,Rural,3390,High Risk
+1107,Diploma,Rural,3296,Stable
+1108,Diploma,Rural,2555,High Risk
+1109,Degree,Urban,6808,Stable
+1110,Diploma,Urban,3884,Stable
+1111,Degree,Urban,4914,Stable
+1112,Diploma,Rural,2897,Stable
+1113,Diploma,Rural,3216,High Risk
+1114,Degree,Urban,4311,Stable
+1115,Diploma,Urban,2882,High Risk
+1116,Diploma,Urban,4657,High Risk
+1117,Degree,Rural,5165,Stable
+1118,Diploma,Urban,5608,Stable
+1119,Degree,Urban,5260,High Risk
+1120,Degree,Rural,5857,Stable
+1121,Diploma,Urban,3778,Stable
+1122,Diploma,Urban,3409,High Risk
+1123,Degree,Rural,5914,High Risk
+1124,Diploma,Urban,3115,High Risk
+1125,Diploma,Urban,3232,High Risk
+1126,Degree,Urban,6788,Stable
+1127,Degree,Urban,6240,Stable
+1128,Degree,Urban,4185,Stable
+1129,Degree,Urban,5662,Stable
+1130,Diploma,Urban,2914,High Risk
+1131,Diploma,Rural,2905,High Risk
+1132,Diploma,Urban,3603,Stable
+1133,Degree,Urban,7143,Stable
+1134,Degree,Urban,5729,High Risk
+1135,Degree,Urban,3047,High Risk
+1136,Degree,Urban,6352,Stable
+1137,Degree,Urban,5589,Stable
+1138,Diploma,Urban,3704,Stable
+1139,Diploma,Rural,1912,High Risk
+1140,Degree,Rural,3824,Stable
+1141,Diploma,Rural,2675,High Risk
+1142,Degree,Rural,2999,High Risk
+1143,Degree,Urban,4891,Stable
+1144,Degree,Urban,4809,High Risk
+1145,Degree,Rural,5108,Stable
+1146,Degree,Urban,4456,High Risk
+1147,Degree,Urban,5405,Stable
+1148,Diploma,Urban,4185,Stable
+1149,Degree,Urban,5096,Stable
+1150,Diploma,Rural,2738,High Risk
+1151,Degree,Urban,5398,Stable
+1152,Degree,Rural,4321,Stable
+1153,Degree,Urban,7373,Stable
+1154,Degree,Urban,4511,Stable
+1155,Degree,Urban,6303,Stable
+1156,Degree,Urban,5891,Stable
+1157,Degree,Urban,4241,Stable
+1158,Degree,Rural,7079,Stable
+1159,Degree,Urban,6131,Stable
+1160,Degree,Urban,5973,Stable
+1161,Diploma,Urban,4297,Stable
+1162,Degree,Urban,5751,High Risk
+1163,Diploma,Rural,1849,High Risk
+1164,Degree,Urban,6211,Stable
+1165,Degree,Urban,5752,High Risk
+1166,Diploma,Urban,3079,High Risk
+1167,Diploma,Urban,4085,Stable
+1168,Diploma,Urban,3240,High Risk
+1169,Diploma,Urban,3105,High Risk
+1170,Diploma,Urban,3461,High Risk
+1171,Degree,Rural,5215,High Risk
+1172,Degree,Urban,6060,Stable
+1173,Degree,Rural,6328,High Risk
+1174,Degree,Urban,6088,Stable
+1175,Diploma,Urban,3515,Stable
+1176,Degree,Rural,3557,Stable
+1177,Diploma,Urban,4622,Stable
+1178,Diploma,Urban,4377,Stable
+1179,Degree,Urban,8102,High Risk
+1180,Degree,Urban,7179,High Risk
+1181,Degree,Rural,4164,Stable
+1182,Diploma,Rural,2253,High Risk
+1183,Degree,Rural,5067,Stable
+1184,Degree,Rural,2944,High Risk
+1185,Diploma,Urban,2949,High Risk
+1186,Degree,Urban,5819,High Risk
+1187,Diploma,Urban,4043,Stable
+1188,Diploma,Urban,2576,High Risk
+1189,Diploma,Rural,1797,High Risk
+1190,Degree,Urban,6378,Stable
+1191,Degree,Urban,5186,Stable
+1192,Diploma,Rural,4107,Stable
+1193,Degree,Urban,5933,High Risk
+1194,Degree,Rural,5952,High Risk
+1195,Degree,Rural,5450,Stable
+1196,Diploma,Urban,3209,High Risk
+1197,Diploma,Urban,2220,Stable
+1198,Degree,Urban,6624,Stable
+1199,Diploma,Urban,4164,High Risk
+1200,Degree,Rural,5668,Stable
+1201,Degree,Urban,5251,Stable
+1202,Degree,Urban,5783,Stable
+1203,Degree,Urban,7922,Stable
+1204,Degree,Urban,6868,Stable
+1205,Degree,Rural,5028,High Risk
+1206,Degree,Rural,3731,Stable
+1207,Degree,Urban,6336,Stable
+1208,Diploma,Urban,3366,High Risk
+1209,Diploma,Urban,4095,Stable
+1210,Diploma,Rural,2701,Stable
+1211,Diploma,Urban,2900,High Risk
+1212,Degree,Urban,4239,Stable
+1213,Degree,Rural,4479,Stable
+1214,Diploma,Urban,2890,High Risk
+1215,Diploma,Urban,4450,Stable
+1216,Degree,Urban,6440,High Risk
+1217,Diploma,Rural,1500,High Risk
+1218,Degree,Urban,4970,Stable
+1219,Diploma,Rural,2559,High Risk
+1220,Diploma,Urban,3463,High Risk
+1221,Diploma,Urban,4358,Stable
+1222,Diploma,Rural,2054,High Risk
+1223,Degree,Urban,3218,High Risk
+1224,Diploma,Urban,4076,Stable
+1225,Degree,Rural,4815,Stable
+1226,Diploma,Rural,3156,Stable
+1227,Diploma,Urban,3436,High Risk
+1228,Degree,Urban,6529,Stable
+1229,Degree,Urban,7665,Stable
+1230,Degree,Rural,7471,Stable
+1231,Diploma,Urban,3429,High Risk
+1232,Diploma,Rural,2197,High Risk
+1233,Diploma,Urban,3939,High Risk
+1234,Degree,Urban,6940,High Risk
+1235,Diploma,Urban,2964,High Risk
+1236,Diploma,Urban,3417,High Risk
+1237,Degree,Urban,6303,High Risk
+1238,Degree,Urban,3765,Stable
+1239,Degree,Urban,6429,Stable
+1240,Degree,Urban,6444,Stable
+1241,Degree,Urban,6010,Stable
+1242,Degree,Rural,2875,High Risk
+1243,Degree,Rural,4217,Stable
+1244,Degree,Urban,5820,Stable
+1245,Diploma,Urban,2947,High Risk
+1246,Diploma,Urban,2404,High Risk
+1247,Degree,Urban,4653,Stable
+1248,Diploma,Urban,3703,Stable
+1249,Degree,Rural,6057,Stable
+1250,Degree,Rural,5419,Stable
+1251,Diploma,Urban,3996,Stable
+1252,Degree,Urban,5545,Stable
+1253,Diploma,Urban,4765,Stable
+1254,Degree,Urban,6264,Stable
+1255,Diploma,Urban,2957,High Risk
+1256,Diploma,Urban,3717,Stable
+1257,Diploma,Urban,4131,Stable
+1258,Diploma,Urban,4000,Stable
+1259,Degree,Rural,5400,Stable
+1260,Diploma,Rural,3668,Stable
+1261,Diploma,Urban,3576,Stable
+1262,Degree,Urban,4063,Stable
+1263,Diploma,Rural,4062,Stable
+1264,Diploma,Rural,3156,High Risk
+1265,Degree,Rural,3831,Stable
+1266,Diploma,Rural,2133,High Risk
+1267,Degree,Urban,6634,Stable
+1268,Degree,Urban,6169,High Risk
+1269,Degree,Rural,3287,Stable
+1270,Diploma,Urban,3317,High Risk
+1271,Degree,Urban,7706,High Risk
+1272,Degree,Urban,8173,Stable
+1273,Degree,Urban,6070,Stable
+1274,Diploma,Urban,3367,High Risk
+1275,Degree,Urban,5803,Stable
+1276,Diploma,Rural,4289,Stable
+1277,Degree,Urban,4950,Stable
+1278,Diploma,Urban,4641,Stable
+1279,Degree,Urban,4992,Stable
+1280,Diploma,Urban,4596,Stable
+1281,Diploma,Rural,3255,Stable
+1282,Diploma,Urban,3927,High Risk
+1283,Diploma,Rural,2844,High Risk
+1284,Diploma,Urban,2641,High Risk
+1285,Diploma,Urban,4224,Stable
+1286,Diploma,Rural,3474,High Risk
+1287,Diploma,Urban,3251,High Risk
+1288,Degree,Urban,6846,Stable
+1289,Diploma,Rural,2519,High Risk
+1290,Diploma,Urban,2645,Stable
+1291,Diploma,Urban,3892,Stable
+1292,Degree,Urban,7285,Stable
+1293,Diploma,Urban,5591,Stable
+1294,Degree,Rural,6304,Stable
+1295,Degree,Rural,4801,Stable
+1296,Degree,Rural,4974,Stable
+1297,Degree,Urban,6547,Stable
+1298,Degree,Urban,6941,Stable
+1299,Diploma,Urban,2197,High Risk
+1300,Diploma,Urban,4825,Stable
+1301,Degree,Rural,4226,Stable
+1302,Diploma,Rural,2258,High Risk
+1303,Diploma,Urban,4084,Stable
+1304,Diploma,Rural,2885,High Risk
+1305,Diploma,Rural,3719,Stable
+1306,Degree,Urban,6639,Stable
+1307,Diploma,Urban,3104,High Risk
+1308,Diploma,Rural,2151,High Risk
+1309,Diploma,Rural,2937,Stable
+1310,Diploma,Urban,3348,High Risk
+1311,Diploma,Urban,2222,High Risk
+1312,Degree,Urban,6683,Stable
+1313,Diploma,Urban,3565,Stable
+1314,Diploma,Rural,2527,High Risk
+1315,Diploma,Rural,3111,High Risk
+1316,Diploma,Urban,3972,Stable
+1317,Diploma,Rural,2451,Stable
+1318,Degree,Urban,5231,Stable
+1319,Degree,Rural,4946,Stable
+1320,Degree,Rural,5190,Stable
+1321,Degree,Rural,5166,Stable
+1322,Diploma,Urban,2989,Stable
+1323,Diploma,Urban,3892,Stable
+1324,Degree,Rural,3608,Stable
+1325,Degree,Urban,4655,High Risk
+1326,Diploma,Rural,3610,Stable
+1327,Degree,Urban,6181,Stable
+1328,Degree,Rural,3997,Stable
+1329,Degree,Rural,1830,High Risk
+1330,Degree,Urban,6389,Stable
+1331,Degree,Urban,5005,Stable
+1332,Diploma,Urban,3408,High Risk
+1333,Diploma,Urban,3221,High Risk
+1334,Diploma,Urban,3229,High Risk
+1335,Diploma,Urban,2536,High Risk
+1336,Diploma,Urban,3883,Stable
+1337,Diploma,Rural,2432,High Risk
+1338,Diploma,Urban,3339,High Risk
+1339,Degree,Rural,5066,Stable
+1340,Degree,Urban,6765,Stable
+1341,Degree,Rural,3146,Stable
+1342,Degree,Rural,3219,Stable
+1343,Degree,Urban,5018,Stable
+1344,Diploma,Urban,2904,High Risk
+1345,Degree,Urban,3299,High Risk
+1346,Diploma,Rural,3097,Stable
+1347,Degree,Urban,5702,Stable
+1348,Degree,Urban,3892,Stable
+1349,Degree,Urban,5361,Stable
+1350,Diploma,Urban,5946,Stable
+1351,Degree,Urban,6159,Stable
+1352,Diploma,Rural,2604,High Risk
+1353,Diploma,Urban,2354,High Risk
+1354,Degree,Rural,3856,Stable
+1355,Degree,Urban,7619,Stable
+1356,Diploma,Urban,3195,High Risk
+1357,Degree,Urban,7096,Stable
+1358,Degree,Urban,5766,Stable
+1359,Degree,Urban,5909,Stable
+1360,Diploma,Urban,2597,High Risk
+1361,Degree,Rural,3854,Stable
+1362,Degree,Urban,6081,Stable
+1363,Degree,Rural,4511,Stable
+1364,Diploma,Rural,3112,High Risk
+1365,Diploma,Urban,4538,Stable
+1366,Degree,Urban,4712,Stable
+1367,Degree,Urban,5551,Stable
+1368,Diploma,Urban,3387,High Risk
+1369,Diploma,Rural,2435,High Risk
+1370,Degree,Urban,6291,Stable
+1371,Degree,Rural,4324,High Risk
+1372,Degree,Rural,5189,Stable
+1373,Diploma,Urban,2985,High Risk
+1374,Diploma,Urban,4324,Stable
+1375,Diploma,Urban,2461,High Risk
+1376,Diploma,Rural,1614,High Risk
+1377,Degree,Rural,4124,Stable
+1378,Diploma,Urban,3249,High Risk
+1379,Degree,Urban,5982,High Risk
+1380,Diploma,Urban,3006,High Risk
+1381,Degree,Urban,6004,Stable
+1382,Degree,Urban,6325,Stable
+1383,Diploma,Rural,3057,Stable
+1384,Degree,Urban,3675,Stable
+1385,Degree,Urban,5859,High Risk
+1386,Diploma,Urban,3116,High Risk
+1387,Degree,Rural,3528,Stable
+1388,Degree,Urban,5671,Stable
+1389,Degree,Urban,5730,Stable
+1390,Degree,Rural,3683,High Risk
+1391,Diploma,Rural,3089,Stable
+1392,Diploma,Urban,3013,High Risk
+1393,Degree,Urban,6012,Stable
+1394,Degree,Urban,5292,Stable
+1395,Degree,Urban,6784,Stable
+1396,Diploma,Urban,4461,High Risk
+1397,Diploma,Urban,2948,High Risk
+1398,Diploma,Rural,1500,High Risk
+1399,Degree,Rural,5335,Stable
+1400,Degree,Rural,3778,Stable
+1401,Degree,Urban,7358,Stable
+1402,Diploma,Urban,2821,High Risk
+1403,Diploma,Urban,3096,High Risk
+1404,Diploma,Urban,2613,High Risk
+1405,Degree,Urban,4436,Stable
+1406,Degree,Urban,7114,High Risk
+1407,Diploma,Urban,2892,High Risk
+1408,Diploma,Urban,2546,High Risk
+1409,Degree,Rural,5459,Stable
+1410,Diploma,Urban,3520,Stable
+1411,Degree,Rural,3435,Stable
+1412,Degree,Urban,3521,Stable
+1413,Degree,Rural,4194,Stable
+1414,Degree,Urban,7401,Stable
+1415,Diploma,Rural,1688,High Risk
+1416,Degree,Rural,4126,Stable
+1417,Degree,Urban,4295,Stable
+1418,Diploma,Urban,3463,High Risk
+1419,Degree,Urban,7732,High Risk
+1420,Degree,Urban,8169,Stable
+1421,Diploma,Urban,4604,Stable
+1422,Degree,Urban,3961,Stable
+1423,Degree,Urban,4534,Stable
+1424,Diploma,Urban,4037,Stable
+1425,Diploma,Urban,3020,High Risk
+1426,Diploma,Urban,4293,Stable
+1427,Diploma,Rural,2434,High Risk
+1428,Diploma,Rural,2661,High Risk
+1429,Degree,Urban,4793,Stable
+1430,Degree,Urban,6025,Stable
+1431,Diploma,Urban,1981,High Risk
+1432,Degree,Rural,5533,Stable
+1433,Degree,Urban,6556,Stable
+1434,Degree,Rural,3489,High Risk
+1435,Degree,Rural,4959,Stable
+1436,Diploma,Urban,2521,High Risk
+1437,Degree,Urban,6380,Stable
+1438,Degree,Urban,5616,Stable
+1439,Diploma,Urban,4831,Stable
+1440,Degree,Urban,5495,Stable
+1441,Diploma,Urban,4003,High Risk
+1442,Degree,Rural,3217,Stable
+1443,Degree,Urban,7446,Stable
+1444,Degree,Urban,4874,Stable
+1445,Degree,Urban,7356,Stable
+1446,Diploma,Urban,3613,Stable
+1447,Diploma,Urban,2921,High Risk
+1448,Diploma,Rural,2660,High Risk
+1449,Diploma,Rural,3645,High Risk
+1450,Degree,Rural,5153,Stable
+1451,Diploma,Urban,2509,High Risk
+1452,Degree,Urban,6082,Stable
+1453,Diploma,Urban,3588,Stable
+1454,Degree,Urban,4008,Stable
+1455,Diploma,Urban,3944,Stable
+1456,Diploma,Urban,4507,High Risk
+1457,Degree,Urban,4748,Stable
+1458,Diploma,Urban,3030,High Risk
+1459,Diploma,Rural,2475,High Risk
+1460,Degree,Urban,4563,High Risk
+1461,Degree,Rural,5206,Stable
+1462,Degree,Urban,5167,Stable
+1463,Diploma,Rural,2447,High Risk
+1464,Degree,Urban,4856,Stable
+1465,Degree,Rural,5841,Stable
+1466,Degree,Urban,6373,Stable
+1467,Diploma,Rural,2532,High Risk
+1468,Degree,Urban,4262,Stable
+1469,Degree,Urban,7307,Stable
+1470,Degree,Urban,4800,High Risk
+1471,Diploma,Urban,3081,High Risk
+1472,Diploma,Urban,3544,High Risk
+1473,Diploma,Urban,3526,Stable
+1474,Diploma,Urban,4040,Stable
+1475,Degree,Urban,5929,Stable
+1476,Degree,Rural,5013,Stable
+1477,Diploma,Rural,1824,High Risk
+1478,Degree,Urban,3950,Stable
+1479,Degree,Rural,4802,Stable
+1480,Diploma,Urban,3615,Stable
+1481,Diploma,Urban,3130,High Risk
+1482,Diploma,Urban,3952,Stable
+1483,Degree,Rural,3845,Stable
+1484,Diploma,Urban,2631,High Risk
+1485,Degree,Rural,2596,Stable
+1486,Diploma,Urban,2827,High Risk
+1487,Degree,Rural,5924,Stable
+1488,Diploma,Urban,2804,High Risk
+1489,Diploma,Urban,1950,Stable
+1490,Diploma,Urban,3449,High Risk
+1491,Diploma,Rural,3003,Stable
+1492,Degree,Urban,5249,Stable
+1493,Diploma,Urban,3618,Stable
+1494,Degree,Urban,6041,Stable
+1495,Degree,Rural,6066,Stable
+1496,Diploma,Urban,2852,High Risk
+1497,Diploma,Rural,1500,High Risk
+1498,Diploma,Rural,3256,Stable
+1499,Diploma,Urban,3929,High Risk
+1500,Degree,Urban,6025,Stable
+1501,Degree,Urban,6200,Stable
+1502,Diploma,Urban,3829,Stable
+1503,Degree,Urban,7993,Stable
+1504,Degree,Urban,6387,Stable
+1505,Degree,Urban,5349,Stable
+1506,Degree,Urban,6376,Stable
+1507,Degree,Rural,4226,Stable
+1508,Diploma,Urban,4187,Stable
+1509,Diploma,Rural,2292,High Risk
+1510,Degree,Rural,1833,High Risk
+1511,Degree,Rural,3872,Stable
+1512,Diploma,Urban,4012,Stable
+1513,Degree,Rural,4707,Stable
+1514,Diploma,Urban,3160,High Risk
+1515,Diploma,Urban,3941,Stable
+1516,Degree,Urban,3385,Stable
+1517,Diploma,Urban,5050,High Risk
+1518,Diploma,Urban,4689,Stable
+1519,Degree,Urban,7314,Stable
+1520,Degree,Urban,4747,Stable
+1521,Degree,Rural,5771,Stable
+1522,Diploma,Rural,2016,High Risk
+1523,Diploma,Rural,1500,High Risk
+1524,Diploma,Urban,4377,Stable
+1525,Degree,Urban,4633,Stable
+1526,Diploma,Rural,2564,High Risk
+1527,Diploma,Urban,3325,High Risk
+1528,Degree,Urban,7404,Stable
+1529,Degree,Rural,3719,Stable
+1530,Degree,Urban,3044,Stable
+1531,Diploma,Urban,2582,High Risk
+1532,Degree,Rural,5514,High Risk
+1533,Diploma,Urban,2786,High Risk
+1534,Degree,Rural,5746,Stable
+1535,Diploma,Rural,2832,High Risk
+1536,Degree,Urban,5516,Stable
+1537,Degree,Urban,3014,High Risk
+1538,Diploma,Rural,2899,High Risk
+1539,Diploma,Rural,2830,Stable
+1540,Diploma,Urban,3590,Stable
+1541,Degree,Urban,4876,Stable
+1542,Diploma,Rural,2116,High Risk
+1543,Diploma,Urban,2584,High Risk
+1544,Diploma,Urban,2421,High Risk
+1545,Degree,Urban,6069,Stable
+1546,Degree,Rural,3582,Stable
+1547,Degree,Urban,5621,Stable
+1548,Degree,Urban,5885,Stable
+1549,Diploma,Urban,2644,High Risk
+1550,Diploma,Urban,3558,High Risk
+1551,Diploma,Urban,3773,Stable
+1552,Degree,Rural,4761,Stable
+1553,Diploma,Urban,3060,High Risk
+1554,Degree,Urban,5487,Stable
+1555,Diploma,Urban,4619,Stable
+1556,Degree,Rural,4782,Stable
+1557,Diploma,Rural,2433,High Risk
+1558,Degree,Rural,2928,High Risk
+1559,Degree,Urban,5986,Stable
+1560,Diploma,Urban,1942,High Risk
+1561,Diploma,Urban,3939,Stable
+1562,Diploma,Rural,4522,Stable
+1563,Diploma,Rural,2515,High Risk
+1564,Degree,Urban,6954,High Risk
+1565,Diploma,Urban,3128,High Risk
+1566,Degree,Rural,5561,Stable
+1567,Degree,Urban,6011,Stable
+1568,Diploma,Urban,2126,High Risk
+1569,Degree,Urban,3999,Stable
+1570,Diploma,Rural,3010,Stable
+1571,Degree,Rural,4857,High Risk
+1572,Diploma,Urban,3077,High Risk
+1573,Diploma,Urban,4035,Stable
+1574,Diploma,Urban,3147,High Risk
+1575,Degree,Rural,4197,Stable
+1576,Diploma,Urban,3241,High Risk
+1577,Degree,Rural,6104,Stable
+1578,Degree,Urban,6496,Stable
+1579,Diploma,Urban,5476,Stable
+1580,Degree,Rural,4927,Stable
+1581,Degree,Urban,5461,Stable
+1582,Diploma,Rural,2606,High Risk
+1583,Diploma,Urban,3894,Stable
+1584,Degree,Rural,4449,Stable
+1585,Degree,Urban,5132,Stable
+1586,Degree,Urban,5319,Stable
+1587,Degree,Urban,7165,High Risk
+1588,Degree,Rural,6026,Stable
+1589,Degree,Urban,5660,Stable
+1590,Degree,Rural,5303,Stable
+1591,Degree,Urban,4310,High Risk
+1592,Degree,Rural,4326,Stable
+1593,Degree,Urban,4654,High Risk
+1594,Diploma,Urban,3334,High Risk
+1595,Diploma,Rural,3118,Stable
+1596,Degree,Rural,3385,Stable
+1597,Degree,Urban,5542,Stable
+1598,Degree,Urban,5477,High Risk
+1599,Diploma,Urban,2612,High Risk
+1600,Degree,Urban,5160,Stable
+1601,Degree,Urban,5603,Stable
+1602,Diploma,Urban,3133,Stable
+1603,Degree,Urban,4016,Stable
+1604,Diploma,Urban,3161,High Risk
+1605,Diploma,Urban,3743,Stable
+1606,Degree,Urban,5066,Stable
+1607,Degree,Urban,8425,High Risk
+1608,Diploma,Urban,1725,High Risk
+1609,Degree,Urban,6708,Stable
+1610,Degree,Rural,3938,Stable
+1611,Diploma,Urban,4697,Stable
+1612,Degree,Urban,6798,Stable
+1613,Degree,Urban,4585,Stable
+1614,Degree,Rural,1500,High Risk
+1615,Degree,Urban,5625,Stable
+1616,Diploma,Rural,2363,Stable
+1617,Diploma,Urban,3793,Stable
+1618,Degree,Urban,4441,High Risk
+1619,Diploma,Urban,4564,Stable
+1620,Degree,Urban,3228,High Risk
+1621,Degree,Urban,6779,Stable
+1622,Degree,Urban,4150,High Risk
+1623,Diploma,Urban,5037,Stable
+1624,Diploma,Urban,3987,High Risk
+1625,Degree,Rural,5235,Stable
+1626,Diploma,Urban,2073,High Risk
+1627,Diploma,Urban,2090,High Risk
+1628,Diploma,Urban,2589,Stable
+1629,Degree,Urban,6892,Stable
+1630,Diploma,Urban,3521,Stable
+1631,Degree,Urban,4804,Stable
+1632,Diploma,Rural,4144,Stable
+1633,Degree,Urban,6212,High Risk
+1634,Diploma,Rural,2382,High Risk
+1635,Degree,Urban,6346,High Risk
+1636,Degree,Urban,4489,Stable
+1637,Diploma,Rural,2887,High Risk
+1638,Diploma,Urban,3075,Stable
+1639,Degree,Urban,4520,Stable
+1640,Diploma,Urban,3220,High Risk
+1641,Diploma,Urban,3742,Stable
+1642,Degree,Urban,6786,Stable
+1643,Diploma,Urban,2822,High Risk
+1644,Diploma,Urban,2265,High Risk
+1645,Diploma,Urban,3627,Stable
+1646,Diploma,Rural,1500,Stable
+1647,Diploma,Urban,3560,Stable
+1648,Degree,Urban,7147,Stable
+1649,Diploma,Rural,4105,Stable
+1650,Degree,Urban,4172,Stable
+1651,Degree,Urban,5821,Stable
+1652,Degree,Rural,3403,High Risk
+1653,Diploma,Urban,3124,High Risk
+1654,Degree,Urban,3594,Stable
+1655,Diploma,Urban,3683,High Risk
+1656,Diploma,Urban,3945,High Risk
+1657,Degree,Urban,7954,High Risk
+1658,Diploma,Rural,1886,High Risk
+1659,Degree,Urban,5854,Stable
+1660,Diploma,Rural,1657,High Risk
+1661,Diploma,Rural,2251,High Risk
+1662,Degree,Rural,5624,Stable
+1663,Degree,Urban,5111,Stable
+1664,Diploma,Rural,1500,High Risk
+1665,Degree,Urban,5198,Stable
+1666,Diploma,Urban,3015,High Risk
+1667,Degree,Urban,7533,Stable
+1668,Diploma,Rural,2396,High Risk
+1669,Degree,Rural,7126,Stable
+1670,Degree,Urban,7264,Stable
+1671,Degree,Urban,6212,High Risk
+1672,Diploma,Urban,3459,Stable
+1673,Degree,Urban,3921,Stable
+1674,Degree,Rural,5205,Stable
+1675,Degree,Urban,5554,Stable
+1676,Degree,Urban,6510,Stable
+1677,Diploma,Urban,4222,Stable
+1678,Degree,Urban,7179,High Risk
+1679,Degree,Rural,3320,Stable
+1680,Diploma,Urban,1683,High Risk
+1681,Degree,Urban,8719,High Risk
+1682,Degree,Urban,5703,Stable
+1683,Diploma,Urban,4450,Stable
+1684,Diploma,Urban,3457,High Risk
+1685,Degree,Urban,7959,High Risk
+1686,Diploma,Rural,3840,Stable
+1687,Diploma,Urban,3686,Stable
+1688,Degree,Rural,5044,High Risk
+1689,Degree,Urban,5937,Stable
+1690,Diploma,Urban,3246,High Risk
+1691,Diploma,Urban,2260,High Risk
+1692,Degree,Urban,6085,High Risk
+1693,Diploma,Urban,4256,Stable
+1694,Degree,Urban,5262,Stable
+1695,Diploma,Urban,2472,High Risk
+1696,Diploma,Urban,3071,High Risk
+1697,Diploma,Urban,3922,Stable
+1698,Diploma,Urban,2990,High Risk
+1699,Degree,Urban,6372,Stable
+1700,Diploma,Urban,2720,High Risk
+1701,Diploma,Urban,3948,Stable
+1702,Degree,Rural,5347,Stable
+1703,Degree,Rural,2704,High Risk
+1704,Degree,Urban,5151,Stable
+1705,Diploma,Urban,2790,High Risk
+1706,Diploma,Urban,3075,High Risk
+1707,Degree,Rural,3674,Stable
+1708,Degree,Urban,7138,Stable
+1709,Degree,Urban,4238,Stable
+1710,Degree,Urban,5294,Stable
+1711,Diploma,Urban,3367,High Risk
+1712,Degree,Urban,6457,Stable
+1713,Diploma,Urban,4473,High Risk
+1714,Degree,Urban,7093,Stable
+1715,Diploma,Urban,3215,High Risk
+1716,Degree,Urban,5526,Stable
+1717,Diploma,Rural,2695,High Risk
+1718,Diploma,Urban,3657,Stable
+1719,Degree,Urban,6527,Stable
+1720,Diploma,Urban,3931,Stable
+1721,Degree,Urban,6132,Stable
+1722,Degree,Urban,6083,Stable
+1723,Degree,Urban,5883,Stable
+1724,Degree,Urban,6495,Stable
+1725,Diploma,Urban,3785,Stable
+1726,Diploma,Rural,2466,Stable
+1727,Degree,Urban,5144,Stable
+1728,Degree,Urban,4471,Stable
+1729,Diploma,Urban,2438,High Risk
+1730,Diploma,Urban,4356,Stable
+1731,Degree,Urban,4998,Stable
+1732,Diploma,Urban,3650,Stable
+1733,Diploma,Urban,4166,High Risk
+1734,Degree,Urban,4858,Stable
+1735,Degree,Urban,7041,Stable
+1736,Degree,Rural,4127,Stable
+1737,Degree,Urban,6032,Stable
+1738,Diploma,Urban,3872,Stable
+1739,Diploma,Urban,3305,Stable
+1740,Degree,Urban,2886,High Risk
+1741,Diploma,Urban,3735,Stable
+1742,Degree,Urban,3804,High Risk
+1743,Diploma,Urban,3502,Stable
+1744,Diploma,Urban,3788,Stable
+1745,Diploma,Urban,2700,High Risk
+1746,Diploma,Urban,4663,High Risk
+1747,Diploma,Urban,3722,Stable
+1748,Diploma,Urban,3249,High Risk
+1749,Diploma,Rural,1960,High Risk
+1750,Diploma,Rural,2692,High Risk
+1751,Degree,Urban,6666,Stable
+1752,Degree,Urban,4552,Stable
+1753,Degree,Urban,5076,Stable
+1754,Degree,Urban,8337,Stable
+1755,Degree,Urban,5986,Stable
+1756,Degree,Urban,6953,Stable
+1757,Diploma,Urban,2763,High Risk
+1758,Diploma,Urban,4162,Stable
+1759,Diploma,Urban,2264,High Risk
+1760,Diploma,Urban,2778,High Risk
+1761,Degree,Rural,5217,High Risk
+1762,Degree,Urban,5087,Stable
+1763,Diploma,Rural,2223,High Risk
+1764,Degree,Rural,3089,Stable
+1765,Degree,Urban,4744,Stable
+1766,Degree,Urban,5885,Stable
+1767,Diploma,Urban,1676,Stable
+1768,Diploma,Rural,2038,Stable
+1769,Diploma,Urban,4485,High Risk
+1770,Diploma,Urban,3781,Stable
+1771,Diploma,Urban,4274,Stable
+1772,Degree,Urban,6503,Stable
+1773,Diploma,Urban,4026,Stable
+1774,Degree,Urban,5446,Stable
+1775,Degree,Rural,3062,Stable
+1776,Diploma,Urban,4481,Stable
+1777,Degree,Rural,7464,Stable
+1778,Diploma,Urban,3169,Stable
+1779,Degree,Urban,5964,Stable
+1780,Diploma,Rural,1986,Stable
+1781,Diploma,Urban,3719,Stable
+1782,Diploma,Urban,3475,High Risk
+1783,Degree,Urban,5445,Stable
+1784,Diploma,Rural,2098,High Risk
+1785,Degree,Rural,4482,Stable
+1786,Diploma,Urban,3713,Stable
+1787,Degree,Urban,7289,Stable
+1788,Degree,Urban,3198,High Risk
+1789,Degree,Urban,7009,High Risk
+1790,Diploma,Rural,3653,Stable
+1791,Diploma,Rural,2607,High Risk
+1792,Degree,Urban,3790,High Risk
+1793,Diploma,Rural,1887,High Risk
+1794,Degree,Rural,2572,Stable
+1795,Diploma,Urban,3218,High Risk
+1796,Diploma,Urban,3224,High Risk
+1797,Diploma,Rural,2825,High Risk
+1798,Diploma,Rural,2483,High Risk
+1799,Degree,Urban,6055,Stable
+1800,Diploma,Urban,3100,High Risk
+1801,Diploma,Urban,3755,Stable
+1802,Diploma,Urban,2648,Stable
+1803,Diploma,Rural,3587,Stable
+1804,Diploma,Rural,2849,High Risk
+1805,Degree,Urban,4574,High Risk
+1806,Degree,Rural,5431,Stable
+1807,Degree,Urban,6642,Stable
+1808,Degree,Rural,6065,Stable
+1809,Degree,Rural,5351,Stable
+1810,Degree,Urban,3484,Stable
+1811,Diploma,Rural,2271,High Risk
+1812,Diploma,Urban,3084,Stable
+1813,Diploma,Urban,5402,Stable
+1814,Degree,Rural,4126,Stable
+1815,Diploma,Urban,3745,Stable
+1816,Diploma,Urban,5041,High Risk
+1817,Degree,Urban,6057,Stable
+1818,Degree,Urban,6134,Stable
+1819,Diploma,Urban,2406,High Risk
+1820,Diploma,Rural,2851,High Risk
+1821,Degree,Rural,6201,Stable
+1822,Diploma,Urban,4099,Stable
+1823,Diploma,Urban,2796,High Risk
+1824,Degree,Urban,7197,Stable
+1825,Degree,Urban,7012,High Risk
+1826,Diploma,Urban,2359,High Risk
+1827,Diploma,Urban,3037,High Risk
+1828,Degree,Rural,5143,Stable
+1829,Degree,Urban,5465,Stable
+1830,Diploma,Urban,5565,Stable
+1831,Diploma,Urban,3023,High Risk
+1832,Diploma,Urban,3669,Stable
+1833,Degree,Urban,5917,Stable
+1834,Diploma,Urban,3170,High Risk
+1835,Diploma,Urban,3412,Stable
+1836,Degree,Urban,5035,Stable
+1837,Diploma,Rural,1500,High Risk
+1838,Diploma,Rural,2533,High Risk
+1839,Degree,Urban,9021,High Risk
+1840,Diploma,Urban,2780,High Risk
+1841,Diploma,Rural,2430,Stable
+1842,Degree,Urban,5420,Stable
+1843,Degree,Urban,6064,Stable
+1844,Degree,Urban,4815,Stable
+1845,Degree,Urban,4227,High Risk
+1846,Degree,Urban,5546,Stable
+1847,Degree,Urban,5530,Stable
+1848,Degree,Rural,2723,High Risk
+1849,Degree,Rural,2679,High Risk
+1850,Diploma,Rural,2172,High Risk
+1851,Degree,Urban,5758,Stable
+1852,Diploma,Urban,3790,Stable
+1853,Diploma,Rural,2335,High Risk
+1854,Degree,Urban,5770,Stable
+1855,Diploma,Rural,4459,High Risk
+1856,Degree,Urban,7045,High Risk
+1857,Diploma,Rural,3621,Stable
+1858,Diploma,Urban,3918,Stable
+1859,Diploma,Rural,3469,Stable
+1860,Diploma,Urban,2985,High Risk
+1861,Diploma,Rural,1941,High Risk
+1862,Degree,Rural,4282,High Risk
+1863,Diploma,Urban,3861,Stable
+1864,Degree,Urban,4835,Stable
+1865,Degree,Urban,6652,Stable
+1866,Diploma,Rural,2692,High Risk
+1867,Diploma,Urban,2673,High Risk
+1868,Degree,Rural,3831,Stable
+1869,Degree,Urban,5891,High Risk
+1870,Degree,Urban,3970,Stable
+1871,Degree,Urban,5223,Stable
+1872,Degree,Urban,6635,High Risk
+1873,Degree,Rural,3857,Stable
+1874,Degree,Urban,7591,Stable
+1875,Degree,Urban,6794,Stable
+1876,Diploma,Urban,3903,Stable
+1877,Degree,Urban,5874,Stable
+1878,Diploma,Rural,2314,High Risk
+1879,Degree,Urban,5862,Stable
+1880,Diploma,Urban,4115,High Risk
+1881,Diploma,Urban,3143,Stable
+1882,Degree,Urban,5478,Stable
+1883,Diploma,Rural,2885,High Risk
+1884,Diploma,Urban,4217,High Risk
+1885,Degree,Urban,4061,High Risk
+1886,Diploma,Urban,3534,Stable
+1887,Degree,Urban,4930,Stable
+1888,Diploma,Rural,2514,High Risk
+1889,Diploma,Urban,4975,High Risk
+1890,Diploma,Urban,2776,High Risk
+1891,Diploma,Rural,3678,Stable
+1892,Degree,Urban,5177,Stable
+1893,Diploma,Urban,3204,High Risk
+1894,Diploma,Urban,3129,High Risk
+1895,Diploma,Urban,2769,High Risk
+1896,Diploma,Urban,3175,Stable
+1897,Diploma,Urban,3223,High Risk
+1898,Diploma,Urban,3112,Stable
+1899,Degree,Urban,4673,High Risk
+1900,Degree,Urban,6929,Stable
+1901,Degree,Urban,5703,Stable
+1902,Degree,Urban,5304,Stable
+1903,Diploma,Urban,2736,Stable
+1904,Degree,Urban,4654,High Risk
+1905,Diploma,Rural,2219,High Risk
+1906,Diploma,Rural,2568,High Risk
+1907,Diploma,Rural,2738,High Risk
+1908,Degree,Rural,4271,Stable
+1909,Degree,Urban,5416,Stable
+1910,Diploma,Urban,4183,Stable
+1911,Degree,Urban,4124,Stable
+1912,Diploma,Rural,3576,Stable
+1913,Diploma,Urban,4555,Stable
+1914,Degree,Urban,6175,Stable
+1915,Degree,Urban,4893,Stable
+1916,Diploma,Urban,3528,Stable
+1917,Degree,Urban,5294,Stable
+1918,Degree,Rural,4807,Stable
+1919,Degree,Urban,4798,Stable
+1920,Diploma,Urban,3583,Stable
+1921,Diploma,Urban,3280,High Risk
+1922,Diploma,Rural,3903,Stable
+1923,Degree,Urban,4981,Stable
+1924,Degree,Urban,6192,Stable
+1925,Degree,Urban,8117,Stable
+1926,Degree,Urban,3907,Stable
+1927,Degree,Urban,5485,High Risk
+1928,Diploma,Urban,3680,Stable
+1929,Degree,Urban,7186,Stable
+1930,Degree,Urban,6437,Stable
+1931,Degree,Rural,5084,Stable
+1932,Degree,Rural,3635,Stable
+1933,Diploma,Urban,3043,High Risk
+1934,Diploma,Urban,3035,High Risk
+1935,Diploma,Urban,2133,High Risk
+1936,Diploma,Urban,4078,Stable
+1937,Degree,Urban,6070,Stable
+1938,Diploma,Rural,2255,High Risk
+1939,Degree,Rural,4258,Stable
+1940,Degree,Urban,6804,Stable
+1941,Degree,Urban,5936,Stable
+1942,Diploma,Rural,3179,Stable
+1943,Degree,Urban,5658,High Risk
+1944,Degree,Rural,6223,Stable
+1945,Degree,Urban,5577,Stable
+1946,Diploma,Urban,2763,High Risk
+1947,Degree,Rural,5575,Stable
+1948,Diploma,Rural,3200,High Risk
+1949,Diploma,Rural,3133,Stable
+1950,Degree,Urban,7046,High Risk
+1951,Degree,Rural,5751,Stable
+1952,Degree,Urban,6330,Stable
+1953,Diploma,Urban,4750,Stable
+1954,Degree,Urban,4120,High Risk
+1955,Diploma,Rural,3972,Stable
+1956,Diploma,Urban,2783,High Risk
+1957,Degree,Rural,6254,Stable
+1958,Degree,Urban,6816,Stable
+1959,Degree,Rural,4061,Stable
+1960,Diploma,Rural,3910,Stable
+1961,Degree,Urban,6560,Stable
+1962,Diploma,Urban,3376,High Risk
+1963,Diploma,Urban,3972,Stable
+1964,Degree,Urban,3984,Stable
+1965,Diploma,Urban,4951,Stable
+1966,Degree,Urban,4629,Stable
+1967,Degree,Urban,5551,Stable
+1968,Degree,Rural,3645,Stable
+1969,Degree,Rural,3655,Stable
+1970,Diploma,Urban,4416,Stable
+1971,Diploma,Urban,4503,Stable
+1972,Degree,Urban,5950,High Risk
+1973,Diploma,Urban,2701,High Risk
+1974,Diploma,Urban,3850,Stable
+1975,Degree,Urban,6872,High Risk
+1976,Diploma,Rural,2599,High Risk
+1977,Degree,Urban,4885,Stable
+1978,Diploma,Urban,3684,High Risk
+1979,Degree,Urban,4498,Stable
+1980,Diploma,Urban,4285,Stable
+1981,Diploma,Urban,2904,High Risk
+1982,Diploma,Urban,3673,Stable
+1983,Diploma,Urban,3903,Stable
+1984,Diploma,Urban,3236,High Risk
+1985,Diploma,Urban,3907,Stable
+1986,Diploma,Urban,1691,High Risk
+1987,Degree,Urban,7657,Stable
+1988,Diploma,Rural,3587,Stable
+1989,Degree,Urban,4326,Stable
+1990,Degree,Urban,4969,High Risk
+1991,Degree,Urban,6074,Stable
+1992,Diploma,Urban,5137,Stable
+1993,Diploma,Rural,2354,High Risk
+1994,Diploma,Urban,3249,Stable
+1995,Degree,Urban,6916,Stable
+1996,Degree,Urban,7572,Stable
+1997,Diploma,Urban,2806,High Risk
+1998,Degree,Urban,5842,High Risk
+1999,Diploma,Urban,3085,High Risk
+2000,Degree,Urban,6539,Stable
